@@ -1,0 +1,22 @@
+.locationInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+.locationInfo__title {
+    margin-bottom: 5px;
+
+}
+
+.locationInfo__list {
+    display: flex;
+}
+
+.locationInfo-li {
+    display: flex;
+    padding-left: 25px;
+}
